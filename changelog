@@ -1,0 +1,26 @@
+FlappyMon 0.2.3-Alpha (10/05/2022):
+- Adding two mechanism of collision
+- Adding sound to game
+- Adding HP mechanism
+- Adding GameOver screen
+- Optimizing Code
+- Adding choose character mechanism
+
+FlappyMon 0.2.1-Alpha :
+- Fixing collision bug
+
+FlappyMon 0.2.0-Alpha :
+- Adding collision mechanism and test if it will work or not
+
+FlappyMon 0.1.3-Alpha :
+- Adding assets for other varian character, environment, ground and obstacle
+
+FlappyMon 0.1.2-Alpha :
+- Adding Obstacle
+
+FlappyMon 0.1.1-Alpha :
+- Adding character
+- Make character can move up and down
+
+FlappyMon 0.1.0-Alpha :
+- Adding ground mechanism and test if it will work or not
